@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+
+Frontend
+ssh root@167.99.150.176
